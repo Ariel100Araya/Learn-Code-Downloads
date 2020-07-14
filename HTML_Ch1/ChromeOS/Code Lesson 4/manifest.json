@@ -1,0 +1,12 @@
+{
+    "name": "Code Lesson 4",
+    "description": "Coding is a essential skill. So, let's learn it. Made By Ariel Araya-Madrigal",
+    "version": "1.3",
+    "manifest_version": 2,
+    "app": {
+      "background": {
+        "scripts": ["background.js"]
+      }
+    },
+    "icons": { "16": "favicon.ico", "64": "favicon.ico" }
+  }

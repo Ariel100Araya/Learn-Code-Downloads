@@ -1,0 +1,12 @@
+{
+    "name": "Code project 1",
+    "description": "The first project in the learn code series",
+    "version": "1.4",
+    "manifest_version": 2,
+    "app": {
+      "background": {
+        "scripts": ["background.js"]
+      }
+    },
+    "icons": { "16": "icon16.png", "64": "icon64.png", "32": "icon32.png", "72": "icon72.png", "128": "icon128.png" }
+  }
